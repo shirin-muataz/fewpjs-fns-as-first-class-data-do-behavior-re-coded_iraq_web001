@@ -20,8 +20,8 @@ function greet(sh)
   return("Good Evening");
 }
 /* Write your implementation of displayMessage() */
-function displayMessage(test)
+function displayMessage(TEST)
 {
- document.querySelector("#greeting").innerHTMl=test;
+ document.querySelector("#greeting").innerHTMl=TEST;
  
 }
