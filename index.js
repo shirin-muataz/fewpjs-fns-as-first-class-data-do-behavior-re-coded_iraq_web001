@@ -22,6 +22,6 @@ function greet(sh)
 /* Write your implementation of displayMessage() */
 function displayMessage(TEST)
 {
- document.querySelector("#greeting").innerHTMl=TEST;
+ document.querySelector("#greeting").innerText=TEST;
  
 }
